@@ -1,0 +1,9 @@
+Missing
+-Veto
+-Trade
+-Card effects
+-Values of each square- rent income name etc.
+-Min offers
+-UI and DB communication
+-Creating situation sheets after each turn to send to db and ui
+-no known bugs, except from the missing features, will solve as they come up.
